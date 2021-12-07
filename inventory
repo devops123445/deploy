@@ -1,0 +1,4 @@
+[webserver]
+ansible_ssh_host=3.145.140.83 ansible_ssh_user=ram ansible_ssh_pass=ram
+ansible_ssh_host=3.140.244.237 ansible_ssh_user=ram ansible_ssh_pass=ram
+ansible_ssh_host=18.191.136.95 ansible_ssh_user=ram ansible_ssh_pass=ram
